@@ -16,9 +16,4 @@ class Line {
     strokeWeight(s);
     line(xposp, yposp, xpos, ypos);
   }
-  
-  float getStroke() {
-    return s;
-  }  
-  
 }
